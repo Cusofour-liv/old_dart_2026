@@ -1,0 +1,9 @@
+#所有可执行文件
+/**/*.exe
+
+#armgcc-cmake工程
+/**/cmake-build-debug
+
+#vscode
+/**/.vscode
+/**/workspace.code-workspace
